@@ -1,8 +1,41 @@
+body {
+  background-color: #4F696A;
+}
+
+.qobiq {
+  background-color: #102020;
+  padding: 10px 20px;
+  width: 400px;
+  height: 450px;
+  margin: 150px 700px;
+}
+ 
 h1 {
-  color: red;
+  color: white;
+  font-size: 35px;
+  text-align: center;
+  text-transform: uppercase;
+  white-space: pre;
+  font-family: 'Times New Roman';
+  font-weight: 5;
+}
+img {
+  width: 120px;
+}
+
+.rasm {
+  padding: 5px 140px;
 
 }
 
-body {
-  background-color: bisque;
+.footer {
+  margin: 10px 100px;
+  color: white;
+  width: 200px;
+  font-size: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  /* white-space: pre; */
+  font-family: 'Times New Roman';
+  font-weight: 1;
 }
