@@ -7,7 +7,11 @@ body {
   padding: 10px 20px;
   width: 400px;
   height: 450px;
-  margin: 150px 700px;
+  /* margin: 150px 700px; */
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 225px;
+  
 }
  
 h1 {
@@ -26,6 +30,12 @@ img {
 .rasm {
   padding: 5px 140px;
 
+}
+
+.rasm_osti {
+  color: white;
+  font-size: 10px;
+  text-align: center;
 }
 
 .footer {
